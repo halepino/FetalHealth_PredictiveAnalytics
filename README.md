@@ -1,6 +1,6 @@
 # Fetal Health Predictive Analytics
 
-## Authors: https://github.com/halepino & https://github.com/karliedawn
+### Authors: https://github.com/halepino & https://github.com/karliedawn
 
 ## Overview
 
