@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project aims to develop a predictive model to assess the health of fetuses based on various parameters collected during cardiotocograms (CTGs). The dataset used for this project contains features such as fetal heart rate (FHR), uterine contractions (UC), etc., which are utilized to predict fetal health status.
+This project aims to develop a predictive model to classify the health outcomes of fetuses based on cardiotocogram(CTG) features. EDA was conducted then Naive Bayes and multi-layer perceptron (MLP) models were trained and compared for accuracy. This repo contains code files for that EDA, Modeling, and Reporting. The complete report is included as a PDF file, but code file also include written rationale. 
 
 ## Dataset
 
