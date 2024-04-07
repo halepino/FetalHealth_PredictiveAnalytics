@@ -33,32 +33,6 @@ Tendency - histogram tendency
 CLASS - FHR pattern class code (1 to 10)   
 NSP - fetal state class code (N=normal; S=suspect; P=pathologic)
 
-## Notebook Content
-
-- **Data Preparation**: 
-  - Data loading
-  - Data cleaning
-  - Exploratory data analysis (EDA)
-  - Feature engineering
-
-- **Model Building**:
-  - Selection of machine learning algorithms
-  - Model training
-  - Model evaluation
-
-- **Results**:
-  - Performance metrics of the trained models
-  - Visualization of results
-  
-## Requirements
-
-To run the notebook and reproduce the results, you'll need the following dependencies:
-
-- Python 3.x
-- Jupyter Notebook
-- Required Python libraries (e.g., pandas, scikit-learn, matplotlib)
-
-## Usage
 
 1. Clone the repository:
    ```bash
