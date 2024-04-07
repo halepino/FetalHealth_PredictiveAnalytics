@@ -2,8 +2,7 @@
 
 ## Overview
 
-This project aims to develop a predictive model to assess the health of fetuses based on various parameters collected during cardiotocograms (CTGs).  
-The dataset used for this project contains features such as fetal heart rate (FHR), uterine contractions (UC), etc., which are utilized to predict fetal health status.
+This project aims to develop a predictive model to assess the health of fetuses based on various parameters collected during cardiotocograms (CTGs). The dataset used for this project contains features such as fetal heart rate (FHR), uterine contractions (UC), etc., which are utilized to predict fetal health status.
 
 ## Dataset
 
