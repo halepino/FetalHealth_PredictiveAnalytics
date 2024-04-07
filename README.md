@@ -1,5 +1,7 @@
 # Fetal Health Predictive Analytics
 
+## Authors: https://github.com/halepino & https://github.com/karliedawn
+
 ## Overview
 
 This project aims to develop a predictive model to assess the health of fetuses based on various parameters collected during cardiotocograms (CTGs). The dataset used for this project contains features such as fetal heart rate (FHR), uterine contractions (UC), etc., which are utilized to predict fetal health status.
@@ -32,8 +34,3 @@ Variance - histogram variance
 Tendency - histogram tendency  
 CLASS - FHR pattern class code (1 to 10)   
 NSP - fetal state class code (N=normal; S=suspect; P=pathologic)
-
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/halepino/FetalHealth_PredictiveAnalytics.git
