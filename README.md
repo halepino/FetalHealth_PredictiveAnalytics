@@ -7,9 +7,9 @@
 This project aims to develop a predictive model to classify the health outcomes of fetuses based on cardiotocogram(CTG) features. EDA was conducted then Naive Bayes and multi-layer perceptron (MLP) models were trained and evaluated. This repo contains code files for that EDA, Modeling, and Reporting. The complete report is included as a PDF file, but code file also include written rationale. 
 
 ## Repo Contents
-FetalHH_EDA.ipynb - Exploratory analysis code file of the dataset with detailed markdown interpretations.
-FetalHH_Modeling.ipynb - Modeling code file with detailed markdown explainations and evalutation.
-Predicting Fetal Health Outcomes with Machine Learning.pdf - Final Report
+FetalHH_EDA.ipynb - Exploratory analysis code file of the dataset with detailed markdown interpretations.  
+FetalHH_Modeling.ipynb - Modeling code file with detailed markdown explainations and evalutation.  
+Predicting Fetal Health Outcomes with Machine Learning.pdf - Final Report  
 
 ## Dataset
 
